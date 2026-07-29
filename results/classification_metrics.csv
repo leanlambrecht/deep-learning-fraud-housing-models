@@ -1,0 +1,6 @@
+modelo,f1_score,precision,recall
+Decision Tree,0.8649,0.8851,0.8455
+Random Forest,0.9087,0.9766,0.8496
+Gradient Boosting,0.9017,0.9505,0.8577
+Keras secuencial,,0.972,0.874
+Keras funcional,,0.9679,0.8322
